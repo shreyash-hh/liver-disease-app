@@ -1,9 +1,11 @@
 # 🩺 Indian Liver Disease Patient Predictor & Clinical Analysis
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://shreyash-hh-liver-disease-app-app-pcnfzj.streamlit.app/)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.4%2B-orange.svg?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+**🌐 Live Demo**: [https://shreyash-hh-liver-disease-app-app-pcnfzj.streamlit.app/](https://shreyash-hh-liver-disease-app-app-pcnfzj.streamlit.app/)
 
 An end-to-end clinical machine learning decision-support system and interactive web application for early screening of liver disease, trained on the **Indian Liver Patient Dataset (ILPD)** from the UCI Machine Learning Repository.
 
